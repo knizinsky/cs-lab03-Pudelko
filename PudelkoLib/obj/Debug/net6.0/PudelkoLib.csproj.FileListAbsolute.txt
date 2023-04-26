@@ -1,0 +1,12 @@
+C:\Users\Konrad\Desktop\pudelko\PudelkoLib\bin\Debug\net6.0\PudelkoLib.deps.json
+C:\Users\Konrad\Desktop\pudelko\PudelkoLib\bin\Debug\net6.0\PudelkoLib.dll
+C:\Users\Konrad\Desktop\pudelko\PudelkoLib\bin\Debug\net6.0\PudelkoLib.pdb
+C:\Users\Konrad\Desktop\pudelko\PudelkoLib\obj\Debug\net6.0\PudelkoLib.csproj.AssemblyReference.cache
+C:\Users\Konrad\Desktop\pudelko\PudelkoLib\obj\Debug\net6.0\PudelkoLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konrad\Desktop\pudelko\PudelkoLib\obj\Debug\net6.0\PudelkoLib.AssemblyInfoInputs.cache
+C:\Users\Konrad\Desktop\pudelko\PudelkoLib\obj\Debug\net6.0\PudelkoLib.AssemblyInfo.cs
+C:\Users\Konrad\Desktop\pudelko\PudelkoLib\obj\Debug\net6.0\PudelkoLib.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\pudelko\PudelkoLib\obj\Debug\net6.0\PudelkoLib.dll
+C:\Users\Konrad\Desktop\pudelko\PudelkoLib\obj\Debug\net6.0\refint\PudelkoLib.dll
+C:\Users\Konrad\Desktop\pudelko\PudelkoLib\obj\Debug\net6.0\PudelkoLib.pdb
+C:\Users\Konrad\Desktop\pudelko\PudelkoLib\obj\Debug\net6.0\ref\PudelkoLib.dll
